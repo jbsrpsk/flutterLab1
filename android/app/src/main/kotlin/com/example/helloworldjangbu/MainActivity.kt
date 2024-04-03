@@ -1,0 +1,5 @@
+package com.example.helloworldjangbu
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity()
